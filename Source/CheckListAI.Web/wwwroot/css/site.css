@@ -1,0 +1,24 @@
+/* Custom styles goes here */
+.bg-menu-theme .menu-item.active > .menu-link:not(.menu-toggle) {
+    background: linear-gradient(210deg, #000000ad 0%, #ddae58 100%);
+}
+
+.menu-inner > .menu-header::before {
+    width: 40%;
+    margin-left: -1.45rem;
+    margin-right: 0.5rem;
+}
+
+.menu-inner > .menu-header::after {
+    width: 50%;
+    margin-left: 0.5rem;
+}
+
+.bg-menu-theme {
+    background-color: #fdba30 !important;
+    color: white;
+}
+
+    .bg-menu-theme .menu-link, .bg-menu-theme .menu-horizontal-prev, .bg-menu-theme .menu-horizontal-next {
+        color: #000;
+    }

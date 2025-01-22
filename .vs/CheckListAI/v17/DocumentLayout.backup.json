@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|c:\\jhonatan\\jfernandez96\\cheklistai\\source\\checklistai.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|solutionrelative:source\\checklistai.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|c:\\jhonatan\\jfernandez96\\cheklistai\\source\\checklistai.web\\areas\\configuracion\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|solutionrelative:source\\checklistai.web\\areas\\configuracion\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|c:\\jhonatan\\jfernandez96\\cheklistai\\source\\checklistai.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|solutionrelative:source\\checklistai.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|c:\\jhonatan\\jfernandez96\\cheklistai\\source\\checklistai.web\\views\\shared\\sections\\menu\\_verticalmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|solutionrelative:source\\checklistai.web\\views\\shared\\sections\\menu\\_verticalmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|c:\\jhonatan\\jfernandez96\\cheklistai\\source\\checklistai.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|solutionrelative:source\\checklistai.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|c:\\jhonatan\\jfernandez96\\cheklistai\\source\\checklistai.web\\views\\shared\\sections\\footer\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|solutionrelative:source\\checklistai.web\\views\\shared\\sections\\footer\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|c:\\jhonatan\\jfernandez96\\cheklistai\\source\\checklistai.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|solutionrelative:source\\checklistai.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|c:\\jhonatan\\jfernandez96\\cheklistai\\source\\checklistai.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|solutionrelative:source\\checklistai.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|c:\\jhonatan\\jfernandez96\\cheklistai\\source\\checklistai.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|solutionrelative:source\\checklistai.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|c:\\jhonatan\\jfernandez96\\cheklistai\\source\\checklistai.web\\views\\shared\\sections\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}|Source\\CheckListAI.Web\\CheckListAI.Web.csproj|solutionrelative:source\\checklistai.web\\views\\shared\\sections\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Source\\CheckListAI.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Source\\CheckListAI.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:46:42.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Source\\CheckListAI.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Source\\CheckListAI.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:37:51.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Source\\CheckListAI.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Source\\CheckListAI.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-22T20:24:09.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Shared\\Sections\\Footer\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Source\\CheckListAI.Web\\Views\\Shared\\Sections\\Footer\\_Footer.cshtml",
+              "ToolTip": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Shared\\Sections\\Footer\\_Footer.cshtml",
+              "RelativeToolTip": "Source\\CheckListAI.Web\\Views\\Shared\\Sections\\Footer\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:16:04.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_VerticalMenu.cshtml",
+              "DocumentMoniker": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "RelativeDocumentMoniker": "Source\\CheckListAI.Web\\Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "ToolTip": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "RelativeToolTip": "Source\\CheckListAI.Web\\Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:12:26.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Areas\\Configuracion\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Source\\CheckListAI.Web\\Areas\\Configuracion\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Areas\\Configuracion\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Source\\CheckListAI.Web\\Areas\\Configuracion\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:10:10.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Source\\CheckListAI.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Source\\CheckListAI.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:10:03.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Source\\CheckListAI.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Source\\CheckListAI.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:10:01.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Source\\CheckListAI.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Source\\CheckListAI.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:09:57.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Scripts.cshtml",
+              "DocumentMoniker": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Shared\\Sections\\_Scripts.cshtml",
+              "RelativeDocumentMoniker": "Source\\CheckListAI.Web\\Views\\Shared\\Sections\\_Scripts.cshtml",
+              "ToolTip": "C:\\Jhonatan\\jfernandez96\\ChekListAI\\Source\\CheckListAI.Web\\Views\\Shared\\Sections\\_Scripts.cshtml",
+              "RelativeToolTip": "Source\\CheckListAI.Web\\Views\\Shared\\Sections\\_Scripts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:09:49.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
