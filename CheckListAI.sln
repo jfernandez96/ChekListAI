@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{DC944C95-D7D8-4DAC-B69B-92712786054A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckListAI.Core", "Source\CheckListAI.Core\CheckListAI.Core.csproj", "{E0EDAC5F-370D-48C6-83AE-50895B1A9204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckListAI.Application", "Source\CheckListAI.Application\CheckListAI.Application.csproj", "{34367F79-771F-400C-B169-412CB97FE60F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckListAI.Infrastructure", "Source\CheckListAI.Infrastructure\CheckListAI.Infrastructure.csproj", "{CD5B83F5-CB57-4A45-9212-2F37273DC210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckListAI.Domain", "Source\CheckListAI.Domain\CheckListAI.Domain.csproj", "{CB6DA056-0F96-4768-AC03-7B413B563E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckListAI.Web", "Source\CheckListAI.Web\CheckListAI.Web.csproj", "{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0EDAC5F-370D-48C6-83AE-50895B1A9204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EDAC5F-370D-48C6-83AE-50895B1A9204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EDAC5F-370D-48C6-83AE-50895B1A9204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EDAC5F-370D-48C6-83AE-50895B1A9204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34367F79-771F-400C-B169-412CB97FE60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34367F79-771F-400C-B169-412CB97FE60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34367F79-771F-400C-B169-412CB97FE60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34367F79-771F-400C-B169-412CB97FE60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5B83F5-CB57-4A45-9212-2F37273DC210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5B83F5-CB57-4A45-9212-2F37273DC210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5B83F5-CB57-4A45-9212-2F37273DC210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5B83F5-CB57-4A45-9212-2F37273DC210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB6DA056-0F96-4768-AC03-7B413B563E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6DA056-0F96-4768-AC03-7B413B563E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6DA056-0F96-4768-AC03-7B413B563E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6DA056-0F96-4768-AC03-7B413B563E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0B2FE8-E892-46F2-92AC-52C70FED9A58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E0EDAC5F-370D-48C6-83AE-50895B1A9204} = {DC944C95-D7D8-4DAC-B69B-92712786054A}
+		{34367F79-771F-400C-B169-412CB97FE60F} = {DC944C95-D7D8-4DAC-B69B-92712786054A}
+		{CD5B83F5-CB57-4A45-9212-2F37273DC210} = {DC944C95-D7D8-4DAC-B69B-92712786054A}
+		{CB6DA056-0F96-4768-AC03-7B413B563E37} = {DC944C95-D7D8-4DAC-B69B-92712786054A}
+		{0C0B2FE8-E892-46F2-92AC-52C70FED9A58} = {DC944C95-D7D8-4DAC-B69B-92712786054A}
+	EndGlobalSection
+EndGlobal

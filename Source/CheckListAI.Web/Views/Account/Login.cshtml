@@ -1,0 +1,57 @@
+﻿@{
+    Layout = "_BlankLayout";
+    ViewData["Title"] = "Login";
+}
+
+@section PageStyles {
+    <link rel="stylesheet" href="~/vendor/css/pages/page-auth.css">
+}
+
+@* ************** Content ************** *@
+
+<div class="position-relative">
+    <div class="authentication-wrapper authentication-basic container-p-y">
+        <div class="authentication-inner py-6 mx-4">
+
+            <!-- Login -->
+            <div class="card p-7" style="background:rgb(133 133 133 / 75%)">
+                <!-- Logo -->
+                <div class="app-brand justify-content-center mt-5">
+                    <a href="/" class="app-brand-link gap-6">
+                        <img src="~/img/favicon/favicon.svg" />
+                        <span class="app-brand-logo demo"></span>
+                        <span class="app-brand-text demo text-heading fw-semibold"></span>
+                    </a>
+                </div>
+                <!-- /Logo -->
+
+                <div class="card-body mt-1">
+                    <h4 class="mb-1" style="color:white">Bienvenido! 👋🏻</h4>
+                    <p class="mb-5" style="color:white">Inicia sesión con cuenta al sistema de check list de ambientes y infrastructura.</p>
+
+                    <form class="mb-5" asp-action="Login"  method="post">
+                        <div class="mb-5">
+                            <label for="username" class="form-label" style="color:white">Usuario</label>
+                            <input type="text" class="form-control" id="username" name="username" placeholder="Ingresa tu usuario" autofocus>
+                            @*        <label for="username">Usuario</label> *@
+                        </div>
+                        <div class="mb-5">
+                            <div class="form-password-toggle">
+                                <label class="form-label" for="password" style="color:white">Contraseña</label>
+                                <div class="input-group input-group-merge">
+                                    <input type="password" id="password" class="form-control" name="password" placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;" aria-describedby="password" />
+                                    <span class="input-group-text cursor-pointer"><i class="ri-eye-off-line ri-20px"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-5">
+                            <button class="btn btn-warning d-grid w-100" type="submit">Iniciar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

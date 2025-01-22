@@ -1,0 +1,11 @@
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\bin\Debug\net8.0\CheckListAI.Infrastructure.deps.json
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\bin\Debug\net8.0\CheckListAI.Infrastructure.dll
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\bin\Debug\net8.0\CheckListAI.Infrastructure.pdb
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\obj\Debug\net8.0\CheckListAI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\obj\Debug\net8.0\CheckListAI.Infrastructure.AssemblyInfoInputs.cache
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\obj\Debug\net8.0\CheckListAI.Infrastructure.AssemblyInfo.cs
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\obj\Debug\net8.0\CheckListAI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\obj\Debug\net8.0\CheckListAI.Infrastructure.dll
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\obj\Debug\net8.0\refint\CheckListAI.Infrastructure.dll
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\obj\Debug\net8.0\CheckListAI.Infrastructure.pdb
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Infrastructure\obj\Debug\net8.0\ref\CheckListAI.Infrastructure.dll

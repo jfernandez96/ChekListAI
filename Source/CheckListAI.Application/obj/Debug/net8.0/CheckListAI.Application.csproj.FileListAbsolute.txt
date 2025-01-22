@@ -1,0 +1,11 @@
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\bin\Debug\net8.0\CheckListAI.Application.deps.json
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\bin\Debug\net8.0\CheckListAI.Application.dll
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\bin\Debug\net8.0\CheckListAI.Application.pdb
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\obj\Debug\net8.0\CheckListAI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\obj\Debug\net8.0\CheckListAI.Application.AssemblyInfoInputs.cache
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\obj\Debug\net8.0\CheckListAI.Application.AssemblyInfo.cs
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\obj\Debug\net8.0\CheckListAI.Application.csproj.CoreCompileInputs.cache
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\obj\Debug\net8.0\CheckListAI.Application.dll
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\obj\Debug\net8.0\refint\CheckListAI.Application.dll
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\obj\Debug\net8.0\CheckListAI.Application.pdb
+C:\Jhonatan\jfernandez96\ChekListAI\Source\CheckListAI.Application\obj\Debug\net8.0\ref\CheckListAI.Application.dll
